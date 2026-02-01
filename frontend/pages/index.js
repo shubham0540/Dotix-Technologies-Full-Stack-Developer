@@ -53,7 +53,7 @@ export default function Home() {
   };
 
   const runJob = async (id) => {
-    await fetch(`${API}/run-job/${id}`, { method: "POST" });
+    await fetch(`${API}/jobs/run-job/${id}`, { method: "POST" });
     fetchJobs();
   };
 
