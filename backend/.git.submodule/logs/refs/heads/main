@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 29afc133ad118feb1a44f8c02ea77a0d9e63a2b9 shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769948700 +0530	commit (initial): setup backend project structure
+29afc133ad118feb1a44f8c02ea77a0d9e63a2b9 f43d0d0089b9ea3b76ca3432d42e67ff06f2fded shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769948738 +0530	commit: add database connection
+f43d0d0089b9ea3b76ca3432d42e67ff06f2fded 60f8792f47d52b70fcba0282d62431f55195d631 shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769948780 +0530	commit: implement job API and service layer
+60f8792f47d52b70fcba0282d62431f55195d631 60f8792f47d52b70fcba0282d62431f55195d631 shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769948803 +0530	Branch: renamed refs/heads/master to refs/heads/main
+60f8792f47d52b70fcba0282d62431f55195d631 d3e573abbf46b6dd1540285e33ad8be23b84fb2d shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769950494 +0530	commit: backend structure
+d3e573abbf46b6dd1540285e33ad8be23b84fb2d 762719d50cb6d66c7119bf92fe6356f2d4a2dd0b shubham kumar <76179134+shubham0540@users.noreply.github.com> 1769950844 +0530	commit: backend structure
