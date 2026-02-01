@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #09090b; /* zinc-950 */
+  color: #fafafa;
+}
+
+input, select {
+  background-color: #18181b; /* zinc-900 */
+  border: 1px solid #3f3f46; /* zinc-700 */
+  border-radius: 6px;
+  padding: 8px 12px;
+  color: #fafafa;
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
